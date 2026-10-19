@@ -1,0 +1,14 @@
+
+# Compiled files
+*.exe
+*.o
+*.obj
+*.out
+
+# Build output
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
